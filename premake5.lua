@@ -3,7 +3,7 @@ project "fmt"
     language "C++"
     cppdialect "C++20"
 
-    defines "FMT_HEADER_ONLY=1"
+    -- defines "FMT_HEADER_ONLY=1"
     includedirs "include"
 
     files {
