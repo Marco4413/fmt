@@ -35,3 +35,7 @@ FMT.build
 Makefile
 run-msbuild.bat
 fmt.pc
+
+# Files from premake
+obj
+fmt.vcxproj*
