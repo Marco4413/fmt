@@ -22,3 +22,7 @@ cmake_install.cmake
 fmt-*.cmake
 fmt.pc
 virtualenv
+
+# Files from premake
+obj
+fmt.vcxproj*
