@@ -8,12 +8,13 @@ project "fmt"
 
    files {
       "include/fmt/args.h",
+      "include/fmt/base.h",
       "include/fmt/chrono.h",
       "include/fmt/color.h",
       "include/fmt/compile.h",
       "include/fmt/core.h",
-      "include/fmt/format.h",
       "include/fmt/format-inl.h",
+      "include/fmt/format.h",
       "include/fmt/os.h",
       "include/fmt/ostream.h",
       "include/fmt/printf.h",
