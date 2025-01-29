@@ -24,5 +24,6 @@ fmt.pc
 virtualenv
 
 # Files from premake
-obj
-fmt.vcxproj*
+build
+Makefile
+*.sln
